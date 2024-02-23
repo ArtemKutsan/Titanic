@@ -1,0 +1,32 @@
+/* styles.css */
+
+h1, h2, h3, h4 {
+    color: #e5ce5c;
+    font-family: Cascadia Code Light;
+    font-style: italic;
+    text-indent: 20pt;
+    line-height: 1.0;
+}
+
+h5, h6 {
+    color: #c8cdd7;
+    font-family: Cascadia Code Light;
+    font-style: italic;
+    text-indent: 20pt;
+    line-height: 1.0;
+}
+
+p {
+    font-family: Cascadia Code ExtraLight;
+    text-indent: 20pt;
+    line-height: 1.25;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+ul, ol {
+    font-family: Cascadia Code ExtraLight;
+    line-height: 1.25;
+}
