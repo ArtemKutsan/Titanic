@@ -9,7 +9,7 @@ h1, h2, h3, h4 {
 }
 
 h5, h6 {
-    color: #c8cdd7;
+    color: #e5ce5c;
     font-family: Cascadia Code Light;
     font-style: italic;
     text-indent: 20pt;
@@ -29,4 +29,16 @@ a, a:hover {
 ul, ol {
     font-family: Cascadia Code ExtraLight;
     line-height: 1.25;
+}
+
+div.cell {
+    margin: 0;
+    padding: 0;
+}
+
+.output {
+    max-width: 100%;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
 }
