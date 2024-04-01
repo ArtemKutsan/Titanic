@@ -19,7 +19,7 @@ h3, h4, h5, h6 {
 }
 
 p {
-    color: #bbd5ed;
+    /* color: #bbd5ed; */
     font-family: Cascadia Mono PL Light;
     text-indent: 20pt;
     font-weight: 400;
